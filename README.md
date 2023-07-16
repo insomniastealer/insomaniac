@@ -37,5 +37,5 @@ AOI js stealer:  Discord Token Grabber , Password Stealer, Minecraft SSID steale
   
  # To-do 
 * (better encryption)
-* multiple webhooks for each features
+* multiple webhooks for each feature
 
