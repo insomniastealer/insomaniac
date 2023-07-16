@@ -1,6 +1,15 @@
 # 👁️ Insomnia Stealer
 AOI js stealer:  Discord Token Grabber , Password Stealer, Minecraft SSID stealer, Roblox cookie Stealer, Cookie Stealer, File Stealer, Crypto wallet Stealer etc.
 
+<p align="center">
+  Telegram Group: https://t.me/insomnia_stealer
+ </p>
+
+<p align="center">
+  Discord Server: https://discord.gg/cNabCG53gP
+ </p>
+
+
 # ⚔️ Features
 * [1] Run on startup
 * [2] Steals discord token (lets you login to their account)
